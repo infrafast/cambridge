@@ -14,19 +14,19 @@
 
 | ID | Date 2026 | Objectif | Exercices de la séance | Temps | Évaluation | Statut |
 |---|---|---|---|---|---|---|
-| S01 | Mar 10/11 | Diagnostic | Mini-test R&U (P1–P4 : 16 questions), mini-essay (100 mots), 3 questions de présentation orale ; relever les difficultés | 55 min | IA + parent pour oral | ⏳ À travailler |
+| S01 | Mar 10/11 | Diagnostic | Mini-test R&U (P1–P4 : 16 questions), mini-essay (100 mots), 3 questions de présentation orale en mode vocal ; relever les difficultés | 55 min | IA (conversation vocale) | ⏳ À travailler |
 | S02 | Jeu 12/11 | Use of English P1–P4 | P1 QCM (8), P2 open cloze (8), P3 word formation (8), P4 transformations (6) ; correction commentée | 60 min | IA | ⏳ À travailler |
 | S03 | Sam 14/11 | Reading P5–P7 | P5 texte + 6 QCM, P6 texte à trous (6), P7 matching (10), en version guidée/abrégée si besoin | 60 min | IA | ⏳ À travailler |
 | S04 | Mar 17/11 | Writing Part 1 | Essay (140–190 mots) : 10 min plan, 35 min rédaction, 10 min correction (content, style, organisation, langue) | 55 min | IA | ⏳ À travailler |
 | S05 | Jeu 19/11 | Writing Part 2 | Choisir et rédiger 1 article/email/review/story (140–190 mots), puis comparer brièvement les 4 formats et leurs registres | 55 min | IA | ⏳ À travailler |
 | S06 | Sam 21/11 | Listening P1–P2 | P1 8 QCM d'extraits courts + P2 10 réponses à compléter ; deux écoutes, correction sur audio officiel | 50 min | Corrigé/IA | ⏳ À travailler |
 | S07 | Mar 24/11 | Listening P3–P4 | P3 5 associations + P4 7 QCM, puis relevé des pièges de compréhension | 50 min | Corrigé/IA | ⏳ À travailler |
-| S08 | Jeu 26/11 | Speaking P1–P2 | Interview 3 min ; comparaison de photos 1 min + réponse brève ; 15 min de reprises guidées | 45 min | Parent/partenaire + IA si transcription | ⏳ À travailler |
-| S09 | Sam 28/11 | Speaking P3–P4 | Discussion collaborative, décision commune, discussion approfondie ; points de vocabulaire et connecteurs | 45 min | Parent/partenaire + IA si transcription | ⏳ À travailler |
+| S08 | Jeu 26/11 | Speaking P1–P2 | Entretien vocal : interview 3 min, comparaison de photos 1 min + réponse brève, puis retour personnalisé | 45 min | IA conversation vocale | ⏳ À travailler |
+| S09 | Sam 28/11 | Speaking P3–P4 | Conversation vocale : discussion collaborative simulée avec IA, décision et discussion approfondie ; bilan final | 45 min | IA conversation vocale | ⏳ À travailler |
 | S10 | Mar 01/12 | Simulation R&U | Sujet complet 7 parties / 52 questions en 75 min ; score réel, classement des erreurs | 80 min | IA + corrigé | ⏳ À travailler |
 | S11 | Jeu 03/12 | Simulation Writing | Essay + une tâche Part 2 en 80 min ; correction selon 4 critères | 85 min | IA | ⏳ À travailler |
 | S12 | Sam 05/12 | Simulation Listening | Test complet 4 parties / 30 questions en ~40 min ; corrections et reprise du type le plus faible | 55 min | Corrigé + IA | ⏳ À travailler |
-| S13 | Mar 08/12 | Simulation Speaking | Oral blanc complet (14 min en binôme) + 20 min ciblées sur les difficultés persistantes | 45 min | Parent/partenaire + IA si transcription | ⏳ À travailler |
+| S13 | Mar 08/12 | Simulation Speaking | Oral blanc en mode vocal (~14 min), IA examinateur et partenaire fictif, puis retour et entraînement ciblé | 45 min | IA conversation vocale | ⏳ À travailler |
 | S14 | Jeu 10/12 | Bilan final / révision | Flashcards et erreurs fréquentes (15 min), 10 mini-questions ciblées (15 min), stratégies d'examen et logistique (10 min) | 40 min | IA + élève | ⏳ À travailler |
 
 ### Répartition de la charge
@@ -51,7 +51,7 @@
 
 Repères de suivi **internes et indicatifs**, non équivalents à une note Cambridge : exercices fermés ≥ 80 % ; Writing : chaque critère **Content, Communicative Achievement, Organisation, Language** ≥ 3/5 et consigne remplie ; Speaking : l'interlocuteur confirme une prise de parole compréhensible, cohérente et interactive sans blocage majeur. Ne pas valider « acquis » sur un simple exercice corrigé avec assistance ; si résultat limite, préciser « à revoir » et vérifier de nouveau plus tard.
 
-**ChatGPT corrige** les questions de grammaire/reading, les productions écrites, l'analyse de réponses et les transcriptions transmises. **Le parent, professeur ou partenaire confirme** la passation réelle, le temps, les performances d'interaction orale et la prononciation (sauf si un audio exploitable est fourni). Les corrections des audios officiels nécessitent un corrigé ou les réponses officielles.
+**ChatGPT corrige** les exercices écrits et joue désormais le rôle d'examinateur/partenaire lors des entraînements Speaking en conversation vocale, **sans parent obligatoire**. L'IA fournit une évaluation pédagogique indicative à l'issue de l'entretien ; il ne s'agit pas d'une note Cambridge officielle. La Part 3 avec un partenaire fictif n'est pas strictement équivalente à un vrai binôme. La prononciation ne peut être notée si seul un texte transcrit est accessible ; noter N/E. Les audios de Listening officiel nécessitent un corrigé.
 
 **Règle de suivi** : toute validation doit apparaître à la fois dans la ligne du calendrier et le journal, en indiquant une preuve, un résultat et le vérificateur. Les jours sans séance ne doivent pas être convertis en jours de travail de rattrapage par défaut. Le bilan final au 10 décembre doit distinguer les formats vus et la maîtrise réellement mesurée.
 
@@ -62,9 +62,17 @@ Repères de suivi **internes et indicatifs**, non équivalents à une note Cambr
 - **Listening** : P1 multiple choice (8) ; P2 sentence completion (10) ; P3 multiple matching (5) ; P4 multiple choice (7).
 - **Speaking** : P1 interview ; P2 individual long turn/comparison photos ; P3 collaborative task ; P4 discussion.
 
+## Protocole oral : ChatGPT en conversation vocale
+
+- **Séances concernées** : S01 (présentation), S08, S09 et S13. Ouvrir **le mode vocal** dans ce chat et demander : « Cambridge S08, act as my B2 First for Schools examiner. Speak English, ask questions one at a time, and give feedback only at the end. » Adapter le numéro de séance.
+- **Simulation** : ChatGPT joue l'examinateur. Pour Part 2, montrer deux photos réellement disponibles ; sinon signaler que cette partie n'est qu'une adaptation verbale. Pour Part 3, ChatGPT joue aussi un partenaire fictif et stimule la négociation, sans prétendre reproduire parfaitement la situation en binôme.
+- **Évaluation après l'entretien** : attribuer une note d'entraînement **indicative sur 5** pour chaque critère observable : Grammar & Vocabulary, Discourse Management, Interactive Communication, Global Achievement ; et Pronunciation **uniquement si la qualité de l'audio effectivement perçu permet de l'évaluer**. Marquer **N/E** plutôt que d'inventer une note. Donner 3 points forts, jusqu'à 3 priorités d'amélioration et un statut À travailler / À revoir / Acquis.
+- **Journal GitHub** : à la fin de l'oral, demander « Évalue ma séance Sxx et mets à jour le README ». Vérifier le contenu réellement disponible en chat texte (une transcription peut être incomplète) ; si les performances vocales ne sont pas accessibles de façon fiable après la session, demander un résumé/une transcription ou noter les éléments non évaluables. **Ne pas promettre d'enregistrement autonome depuis le mode vocal** : la mise à jour GitHub est effectuée au cours d'un échange avec accès à GitHub.
+- **Intégrité** : ne pas afficher de note avant réalisation ; aucune évaluation n'est officielle. Conserver les scores et commentaires dans le journal après réalisation, sans exiger de parent comme évaluateur.
+
 ## Reprendre une séance dans ce projet
 
-Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infrafast/cambridge ; pose les questions progressivement, corrige, puis mets à jour le suivi. »**, ou simplement **« Cambridge S02 »**. ChatGPT doit : ouvrir la version courante du README, proposer les questions sans donner immédiatement les réponses, recevoir les réponses, corriger avec explication, enregistrer le score, puis mettre à jour le README. Pour une activité orale faite avec un parent, demander sa confirmation + brèves observations, sans inventer un score ou un jugement sur la prononciation. Mise à jour GitHub **au fil des échanges**, et non automatiquement en arrière-plan.
+Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infrafast/cambridge ; pose les questions progressivement, corrige, puis mets à jour le suivi. »**, ou simplement **« Cambridge S02 »**. ChatGPT doit : ouvrir la version courante du README, proposer les questions sans donner immédiatement les réponses, recevoir les réponses, corriger avec explication, enregistrer le score, puis mettre à jour le README. Pour les exercices Speaking, utiliser le protocole vocal ci-dessus et consigner une évaluation IA uniquement sur les éléments effectivement observables ; ne pas inventer une note de prononciation. Mise à jour GitHub **au fil des échanges**, et non automatiquement en arrière-plan.
 
 ## Journal chronologique de progression
 
