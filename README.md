@@ -1,125 +1,107 @@
-# Cambridge B2 First for Schools — parcours du 10 novembre au 12 décembre 2026
+# Cambridge B2 First for Schools — parcours allégé (10 novembre → 10 décembre 2026)
 
-> Candidate : lycéenne de 17 ans en France | Examen : **samedi 12 décembre 2026** | Début : **mardi 10 novembre 2026** | Durée : **33 jours**.
+> Lycéenne de 17 ans, France • **Examen le 12 décembre 2026** • **Dernière séance le jeudi 10 décembre** • **14 séances sur 5 semaines** • **3 jours maximum par semaine** (mardi, jeudi, samedi ; dernière semaine : mardi et jeudi seulement).
 
-## Objectif et fonctionnement
+## Principes
 
-Préparation progressive des **quatre épreuves** : Reading and Use of English (**1 h 15**, 7 parties, 52 questions), Writing (**1 h 20**, 2 productions), Listening (**environ 40 min**, 4 parties, 30 questions) et Speaking (**environ 14 min en binôme**, 4 parties). Le calendrier est adaptable après le diagnostic ; les dates de simulations restent des jalons, mais une difficulté persistante doit déclencher un exercice supplémentaire.
+- **Pas de travail programmé les jours sans séance** : mercredi, vendredi, dimanche, lundi sont libres. La dernière semaine se termine le jeudi 10 décembre : **11 et 12 décembre sans devoirs**, hors examen du 12.
+- Séances de **40–60 min** en général, avec deux simulations plus longues (**80–85 min**) pour respecter les durées officielles. Possibilité de répartir les 80 min en deux plages le **même jour** si nécessaire, sans prétendre alors à une simulation continue en conditions réelles.
+- Progression : diagnostic → préparation des formats → entraînement oral/écoute → quatre simulations → révision finale.
+- Les **quatre épreuves** sont couvertes : Reading & Use of English (75 min, 7 parties), Writing (80 min, 2 tâches), Listening (~40 min, 4 parties), Speaking (~14 min en binôme, 4 parties).
+- Pour les sujets chronométrés et les audios, utiliser des **ressources officielles B2 First for Schools** avec corrigé ; pas de correction inventée sur la base d'un score communiqué sans détails.
 
-**Rituel quotidien** : (1) 5 min de révision des erreurs précédentes ; (2) exercice indiqué au calendrier ; (3) correction et explication ; (4) bilan de 2 minutes : score, erreurs et prochaine révision. Le travail ne doit pas reposer uniquement sur des exemples inventés : pour les épreuves chronométrées, privilégier les **sujets officiels B2 First for Schools** et leurs audios/corrigés.
+## Séances (seuls jours de travail prévus)
 
-### Statuts et règles d'évaluation
+| ID | Date 2026 | Objectif | Exercices de la séance | Temps | Évaluation | Statut |
+|---|---|---|---|---|---|---|
+| S01 | Mar 10/11 | Diagnostic | Mini-test R&U (P1–P4 : 16 questions), mini-essay (100 mots), 3 questions de présentation orale ; relever les difficultés | 55 min | IA + parent pour oral | ⏳ À travailler |
+| S02 | Jeu 12/11 | Use of English P1–P4 | P1 QCM (8), P2 open cloze (8), P3 word formation (8), P4 transformations (6) ; correction commentée | 60 min | IA | ⏳ À travailler |
+| S03 | Sam 14/11 | Reading P5–P7 | P5 texte + 6 QCM, P6 texte à trous (6), P7 matching (10), en version guidée/abrégée si besoin | 60 min | IA | ⏳ À travailler |
+| S04 | Mar 17/11 | Writing Part 1 | Essay (140–190 mots) : 10 min plan, 35 min rédaction, 10 min correction (content, style, organisation, langue) | 55 min | IA | ⏳ À travailler |
+| S05 | Jeu 19/11 | Writing Part 2 | Choisir et rédiger 1 article/email/review/story (140–190 mots), puis comparer brièvement les 4 formats et leurs registres | 55 min | IA | ⏳ À travailler |
+| S06 | Sam 21/11 | Listening P1–P2 | P1 8 QCM d'extraits courts + P2 10 réponses à compléter ; deux écoutes, correction sur audio officiel | 50 min | Corrigé/IA | ⏳ À travailler |
+| S07 | Mar 24/11 | Listening P3–P4 | P3 5 associations + P4 7 QCM, puis relevé des pièges de compréhension | 50 min | Corrigé/IA | ⏳ À travailler |
+| S08 | Jeu 26/11 | Speaking P1–P2 | Interview 3 min ; comparaison de photos 1 min + réponse brève ; 15 min de reprises guidées | 45 min | Parent/partenaire + IA si transcription | ⏳ À travailler |
+| S09 | Sam 28/11 | Speaking P3–P4 | Discussion collaborative, décision commune, discussion approfondie ; points de vocabulaire et connecteurs | 45 min | Parent/partenaire + IA si transcription | ⏳ À travailler |
+| S10 | Mar 01/12 | Simulation R&U | Sujet complet 7 parties / 52 questions en 75 min ; score réel, classement des erreurs | 80 min | IA + corrigé | ⏳ À travailler |
+| S11 | Jeu 03/12 | Simulation Writing | Essay + une tâche Part 2 en 80 min ; correction selon 4 critères | 85 min | IA | ⏳ À travailler |
+| S12 | Sam 05/12 | Simulation Listening | Test complet 4 parties / 30 questions en ~40 min ; corrections et reprise du type le plus faible | 55 min | Corrigé + IA | ⏳ À travailler |
+| S13 | Mar 08/12 | Simulation Speaking | Oral blanc complet (14 min en binôme) + 20 min ciblées sur les difficultés persistantes | 45 min | Parent/partenaire + IA si transcription | ⏳ À travailler |
+| S14 | Jeu 10/12 | Bilan final / révision | Flashcards et erreurs fréquentes (15 min), 10 mini-questions ciblées (15 min), stratégies d'examen et logistique (10 min) | 40 min | IA + élève | ⏳ À travailler |
 
-| Statut | Signification | Condition |
+### Répartition de la charge
+
+| Semaine | Séances et dates | Volume prévu |
 |---|---|---|
-| ⏳ À travailler | Non réalisé, non évalué ou compétence non encore démontrée | Par défaut pour toutes les journées à venir |
-| 🟠 À revoir | Réalisé mais objectifs non atteints, ou erreurs répétées | Rétester après correction, sous 48–72 h |
-| ✅ Acquis | Réalisé et maîtrisé selon le seuil défini, avec preuve | Valider seulement **après** correction ou confirmation humaine |
+| 10–15 novembre | S01 mardi 10, S02 jeudi 12, S03 samedi 14 | 175 min |
+| 16–22 novembre | S04 mardi 17, S05 jeudi 19, S06 samedi 21 | 160 min |
+| 23–29 novembre | S07 mardi 24, S08 jeudi 26, S09 samedi 28 | 140 min |
+| 30 novembre–6 décembre | S10 mardi 1, S11 jeudi 3, S12 samedi 5 | 220 min |
+| 7–10 décembre | S13 mardi 8, S14 jeudi 10 | 85 min |
 
-Seuils pratiques de suivi (**repères internes, non équivalents à une note Cambridge**) : exercices fermés **≥ 80 %** de réponses pondérées correctes ; Writing : au moins **3/5** pour chacun des quatre critères (Content, Communicative Achievement, Organisation, Language) et réponse complète à la consigne ; Speaking : interlocuteur confirme l'exécution des tâches, interaction intelligible et soutenue, sans blocage majeur. Si une performance est juste au seuil, vérifier sur un nouveau mini-test avant de considérer la compétence acquise. **Ne jamais marquer ✅ par anticipation.**
+**Remarque** : Les tests complets des 1er et 3 décembre sont volontairement plus longs. Si la disponibilité d'un jour est limitée, préférer une pratique ciblée de 45–60 min, en mentionnant explicitement « simulation partielle » dans le journal, plutôt que de sous-estimer la durée officielle.
 
-**Évaluation par ChatGPT** : QCM, clozes, transformations, justifications, essais/articles/emails/reviews/stories, analyses d'erreurs, éventuelles transcriptions et feedback d'oral. **Confirmation humaine nécessaire** : entretien parlé réel, qualité de prononciation non vérifiable sans audio, condition de test chronométré, participation avec un second candidat, résultats d'une plateforme externe. Si l'audio est disponible dans la conversation, ChatGPT peut aider à l'évaluer, sans se substituer à un examinateur officiel. Pour les tests Cambridge, communiquer les réponses/score officiel ou le corrigé afin d'éviter d'inventer la correction.
+## Validation des acquis et rôle des évaluateurs
 
-**Journal de chaque séance** à renseigner à la fin : `Date | ID | activité | score brut/maximum ou grille | statut | évaluateur (IA / parent / élève) | erreurs et actions | date de révision`. Une journée peut comporter plusieurs compétences ; marquer le statut global ✅ seulement lorsque toutes les activités obligatoires sont validées. Les notes restent dans ce README afin que l'on puisse les relire et mettre à jour à chaque échange.
+| Statut | Quand le mettre ? |
+|---|---|
+| ⏳ À travailler | Séance ou compétence non encore évaluée (statut initial) |
+| 🟠 À revoir | Travail fait mais incomplet, erreurs significatives ou résultat sous le seuil de suivi |
+| ✅ Acquis | Performance démontrée et évaluée, avec preuve/score ou confirmation du parent pour l'oral |
 
-## Calendrier détaillé (33 journées)
+Repères de suivi **internes et indicatifs**, non équivalents à une note Cambridge : exercices fermés ≥ 80 % ; Writing : chaque critère **Content, Communicative Achievement, Organisation, Language** ≥ 3/5 et consigne remplie ; Speaking : l'interlocuteur confirme une prise de parole compréhensible, cohérente et interactive sans blocage majeur. Ne pas valider « acquis » sur un simple exercice corrigé avec assistance ; si résultat limite, préciser « à revoir » et vérifier de nouveau plus tard.
 
-| Jour | Date | Compétence / objectif | Exercice concret et quantité | Vérification | Temps cible | Statut |
+**ChatGPT corrige** les questions de grammaire/reading, les productions écrites, l'analyse de réponses et les transcriptions transmises. **Le parent, professeur ou partenaire confirme** la passation réelle, le temps, les performances d'interaction orale et la prononciation (sauf si un audio exploitable est fourni). Les corrections des audios officiels nécessitent un corrigé ou les réponses officielles.
+
+**Règle de suivi** : toute validation doit apparaître à la fois dans la ligne du calendrier et le journal, en indiquant une preuve, un résultat et le vérificateur. Les jours sans séance ne doivent pas être convertis en jours de travail de rattrapage par défaut. Le bilan final au 10 décembre doit distinguer les formats vus et la maîtrise réellement mesurée.
+
+## Formats et points couverts
+
+- **R&U** : P1 multiple-choice cloze ; P2 open cloze ; P3 word formation ; P4 key word transformations ; P5 multiple choice ; P6 gapped text ; P7 multiple matching. Grammaire ciblée : temps, modaux, conditionnels, passif, relatives, discours indirect ; vocabulaire : collocations, phrasal verbs, word families.
+- **Writing** : Part 1 essay obligatoire ; Part 2 article, email/letter, review, story (le choix exact dépend du sujet). Chaque tâche officielle : 140–190 mots. S05 présente les quatre formats mais fait rédiger **un seul** texte pour éviter la surcharge.
+- **Listening** : P1 multiple choice (8) ; P2 sentence completion (10) ; P3 multiple matching (5) ; P4 multiple choice (7).
+- **Speaking** : P1 interview ; P2 individual long turn/comparison photos ; P3 collaborative task ; P4 discussion.
+
+## Reprendre une séance dans ce projet
+
+Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infrafast/cambridge ; pose les questions progressivement, corrige, puis mets à jour le suivi. »**, ou simplement **« Cambridge S02 »**. ChatGPT doit : ouvrir la version courante du README, proposer les questions sans donner immédiatement les réponses, recevoir les réponses, corriger avec explication, enregistrer le score, puis mettre à jour le README. Pour une activité orale faite avec un parent, demander sa confirmation + brèves observations, sans inventer un score ou un jugement sur la prononciation. Mise à jour GitHub **au fil des échanges**, et non automatiquement en arrière-plan.
+
+## Journal chronologique de progression
+
+| Date réelle | ID | Activité / preuve | Score ou critères | Statut | Vérificateur | Erreurs / correction / suite |
 |---|---|---|---|---|---|---|
-| J01 | 10/11/2026 | Diagnostic initial | R&U 1–3 (24 questions, 25 min) + Speaking Part 1 (4 min) + mini-rédaction (100 mots) | ChatGPT + parent oral | 60 min | ⏳ À travailler |
-| J02 | 11/11/2026 | Grammaire et vocabulaire | R&U Part 1 (8 Q) collocations/phrasal verbs + 15 flashcards + corrections | ChatGPT | 40 min | ⏳ À travailler |
-| J03 | 12/11/2026 | Open cloze | R&U Part 2 (8 Q) : articles, pronoms, prépositions, auxiliaires ; 10 phrases | ChatGPT | 40 min | ⏳ À travailler |
-| J04 | 13/11/2026 | Word formation | R&U Part 3 (8 Q) : préfixes, suffixes, mots négatifs ; 12 familles | ChatGPT | 40 min | ⏳ À travailler |
-| J05 | 14/11/2026 | Key word transformations | R&U Part 4 (6 Q) : passif, conditionnels, comparatifs, reported speech | ChatGPT | 45 min | ⏳ À travailler |
-| J06 | 15/11/2026 | Reading stratégies | R&U Part 5 (6 Q) : lecture détaillée, preuves et distracteurs ; correction | ChatGPT | 50 min | ⏳ À travailler |
-| J07 | 16/11/2026 | Bilan 1 | R&U Parties 1–5 chronométrées (échantillon) ; reprendre chaque erreur | ChatGPT | 55 min | ⏳ À travailler |
-| J08 | 17/11/2026 | Gapped text | R&U Part 6 (6 Q) : cohésion, références, connecteurs | ChatGPT | 45 min | ⏳ À travailler |
-| J09 | 18/11/2026 | Multiple matching | R&U Part 7 (10 Q) : balayage, synonymes, repérage rapide | ChatGPT | 45 min | ⏳ À travailler |
-| J10 | 19/11/2026 | Writing : essay | Writing Part 1 : plan (10 min) puis essay 140–190 mots (40 min) ; 2 idées données + une personnelle | ChatGPT | 55 min | ⏳ À travailler |
-| J11 | 20/11/2026 | Writing : article | Writing Part 2 : article 140–190 mots (40 min) + titre/accroche/relecture | ChatGPT | 45 min | ⏳ À travailler |
-| J12 | 21/11/2026 | Writing : email/letter | Writing Part 2 : email ou letter 140–190 mots ; registre, consignes, paragraphes | ChatGPT | 45 min | ⏳ À travailler |
-| J13 | 22/11/2026 | Writing : review/story | Writing Part 2 : review OU story selon le sujet officiel ; 140–190 mots + checklist | ChatGPT | 50 min | ⏳ À travailler |
-| J14 | 23/11/2026 | Bilan 2 : Writing | 2 tâches de Writing en 80 min avec correction sur Content/Communicative Achievement/Organisation/Language | ChatGPT | 85 min | ⏳ À travailler |
-| J15 | 24/11/2026 | Listening Part 1 | 8 extraits / 8 Q type QCM ; 2 écoutes et relevé des distracteurs | Auto-correction + ChatGPT | 45 min | ⏳ À travailler |
-| J16 | 25/11/2026 | Listening Part 2 | 10 blancs (sentence completion) ; anticiper nature des mots, orthographe, chiffres | Auto-correction + ChatGPT | 45 min | ⏳ À travailler |
-| J17 | 26/11/2026 | Listening Part 3 | 5 associations de locuteurs (multiple matching) ; identifier attitude et intention | Auto-correction + ChatGPT | 45 min | ⏳ À travailler |
-| J18 | 27/11/2026 | Listening Part 4 | 7 QCM sur entretien ; prise de notes, synonymes, deux écoutes | Auto-correction + ChatGPT | 45 min | ⏳ À travailler |
-| J19 | 28/11/2026 | Speaking Parts 1 et 2 | Entretien 3 min + 2 photos comparées : 1 min de prise de parole puis 30 s de réponse | Parent + ChatGPT si transcription | 45 min | ⏳ À travailler |
-| J20 | 29/11/2026 | Speaking Parts 3 et 4 | Discussion collaborative 2 min + décision 1 min + questions approfondies 4 min | Parent + ChatGPT si transcription | 45 min | ⏳ À travailler |
-| J21 | 30/11/2026 | Bilan 3 : Listening/Speaking | Listening intégral ~40 min (30 Q) + oral Parts 1–4 (14 min à deux candidats) | Auto-correction + parent | 65 min | ⏳ À travailler |
-| J22 | 01/12/2026 | Simulation 1 : R&U | Sujet complet Reading and Use of English : 75 min, 7 parties / 52 Q ; calcul des scores par section | ChatGPT + corrigé officiel | 80 min | ⏳ À travailler |
-| J23 | 02/12/2026 | Simulation 1 : Writing | Essay + seconde production : 80 min ; commentaires par critère et réécriture ciblée | ChatGPT | 85 min | ⏳ À travailler |
-| J24 | 03/12/2026 | Simulation 1 : Listening | Listening complet : ~40 min ; tableau des erreurs par partie + transcription | Corrigé officiel + ChatGPT | 50 min | ⏳ À travailler |
-| J25 | 04/12/2026 | Simulation 1 : Speaking | Oral intégral avec interlocuteur : Parts 1–4 ; retour sur fluidité, grammaire, interaction | Parent + ChatGPT sur transcription | 40 min | ⏳ À travailler |
-| J26 | 05/12/2026 | Analyse des faiblesses | 3 mini-tests ciblés sur les 3 moins bons sous-domaines + correction détaillée | ChatGPT | 50 min | ⏳ À travailler |
-| J27 | 06/12/2026 | Renforcement grammaire | 20 transformations et clozes ciblés : temps, modaux, passif, conditionnels, relatives, discours indirect | ChatGPT | 45 min | ⏳ À travailler |
-| J28 | 07/12/2026 | Simulation 2 : R&U | Second sujet officiel complet 75 min ; objectif moins d'erreurs et meilleure gestion du temps | ChatGPT + corrigé officiel | 80 min | ⏳ À travailler |
-| J29 | 08/12/2026 | Simulation 2 : Writing | Essay + type Part 2 le moins maîtrisé : 80 min ; grille B2 et version améliorée | ChatGPT | 85 min | ⏳ À travailler |
-| J30 | 09/12/2026 | Simulation 2 : Listening | Second sujet Listening intégral ~40 min ; noter les pièges récurrents | Corrigé officiel + ChatGPT | 50 min | ⏳ À travailler |
-| J31 | 10/12/2026 | Simulation 2 : Speaking | Oral blanc 14 min avec partenaire + retour, répétition des réponses faibles | Parent + ChatGPT sur transcription | 35 min | ⏳ À travailler |
-| J32 | 11/12/2026 | Révision légère | 20 min flashcards + 15 min stratégies/checklist des 4 épreuves ; sommeil et matériel | Élève + parent | 35 min | ⏳ À travailler |
-| J33 | 12/12/2026 | Jour de l'examen | Échauffement 10 min maximum (connecteurs/vocabulaire), vérifier convocation, pièce d'identité et horaires ; examen | Élève | 10 min | ⏳ À travailler |
+| — | — | Aucune séance encore évaluée | — | ⏳ À travailler | — | Première séance S01 le 10/11 |
 
-## Étapes et jalons
+## Matrice des compétences
 
-1. **10–16 novembre — Diagnostic + fondations** : parties 1–5 de Reading and Use of English et grammaire/vocabulaire.
-2. **17–23 novembre — Reading avancé + Writing** : parties 6–7, tous les formats d'écriture de l'examen et bilan écrit.
-3. **24–30 novembre — Listening + Speaking** : 4 parties de chaque épreuve ; premier oral en binôme.
-4. **1–4 décembre — Première simulation complète répartie sur 4 jours** : conditions chronométrées, saisie des résultats et identification des lacunes.
-5. **5–6 décembre — Remédiation ciblée** : réviser les compétences les moins bien maîtrisées.
-6. **7–10 décembre — Deuxième simulation complète répartie sur 4 jours** : confirmer les progrès.
-7. **11–12 décembre — Consolidation et examen** : aucune grosse nouveauté.
-
-## Couverture par format
-
-- **Reading and Use of English** : P1 multiple-choice cloze, P2 open cloze, P3 word formation, P4 key word transformations, P5 multiple-choice reading, P6 gapped text, P7 multiple matching.
-- **Writing** : P1 essay obligatoire ; P2 au choix parmi article, email/letter, review, story (respecter les choix disponibles sur le sujet donné). Deux textes de 140–190 mots chacun.
-- **Listening** : P1 multiple choice (8), P2 sentence completion (10), P3 multiple matching (5), P4 multiple choice (7).
-- **Speaking** : P1 interview ; P2 long turn sur photos ; P3 collaborative task ; P4 discussion.
-- **Transversal** : grammaire (temps, conditionnels, modaux, passif, reported speech, relatives), vocabulaire (collocations, phrasal verbs, word families), stratégies, vitesse, prononciation et gestion du stress.
-
-## Démarrer une session avec ChatGPT
-
-Dans le projet Cambridge, écrire : **« Cambridge J01 : démarre le diagnostic du 10 novembre, pose-moi les questions une à une, corrige, puis mets à jour le README GitHub infrafast/cambridge. »** Pour la suite : **« Cambridge J02 »**, etc., ou **« Cambridge séance du JJ/MM »**. Donner la réponse directement dans le chat ; pour un essai, coller le texte entier. Pour un exercice oral passé avec un parent, fournir la confirmation et 2–3 observations concrètes ; ChatGPT fera le bilan et mettra à jour ce tableau. **Les mises à jour GitHub sont effectuées lors de nos échanges, pas automatiquement en arrière-plan.**
-
-Pour les séances d'entraînement ChatGPT, celui-ci doit fournir l'énoncé, faire répondre la candidate sans divulguer la correction, expliquer les erreurs, enregistrer le score réel, puis proposer une reprise ciblée. Conserver le contexte et l'exercice réalisé dans le journal ; ne pas considérer une réponse corrigée par aide comme preuve de maîtrise autonome.
-
-## Journal des séances
-
-| Date réelle | Jour | Activité et preuve | Score / critères | Statut | Vérifié par | Erreurs / prochain travail |
-|---|---|---|---|---|---|---|
-| — | — | Aucune séance réalisée à ce jour | — | ⏳ À travailler | — | Démarrer J01 le 10/11 |
-
-## Tableau des compétences (actualisé après chaque bilan)
-
-| Compétence | Dernier score réel | Statut | Dernier contrôle | Prochaine action |
+| Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
 |---|---|---|---|---|
-| R&U P1 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| R&U P2 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| R&U P3 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| R&U P4 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| R&U P5 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| R&U P6 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| R&U P7 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Writing essay | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Writing Part 2 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Listening P1 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Listening P2 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Listening P3 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Listening P4 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Speaking P1 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Speaking P2 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Speaking P3 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
-| Speaking P4 | — | ⏳ À travailler | — | Premier exercice prévu au calendrier |
+| R&U P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P5 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P6 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P7 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Writing essay | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Writing Part 2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Listening P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Listening P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Listening P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Listening P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Speaking P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Speaking P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Speaking P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Speaking P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 
-## Ressources officielles et consignes
+## Ressources officielles
 
-- [Cambridge English — Format officiel B2 First for Schools](https://www.cambridgeenglish.org/fr/exams-and-tests/first-for-schools/whats-in-the-exam/)
-- [Cambridge English — Préparer le B2 First for Schools, sujets papier et numériques, audios et corrigés](https://www.cambridgeenglish.org/fr/exams-and-tests/first-for-schools/how-to-prepare/)
-- [Guide officiel du candidat](https://www.cambridgeenglish.org/fr/Images/608128-b2-first-for-schools-information-for-candidates-booklet.pdf)
+- [Format des épreuves B2 First for Schools](https://www.cambridgeenglish.org/fr/exams-and-tests/first-for-schools/whats-in-the-exam/)
+- [Sujets d'entraînement, audios et conseils](https://www.cambridgeenglish.org/fr/exams-and-tests/first-for-schools/how-to-prepare/)
 
-**Attention** : vérifier si l'examen local est digital ou papier et adapter les simulations à son interface. L'épreuve Speaking peut être planifiée séparément par le centre : vérifier la convocation. Les scores bruts des exercices ne sont pas une conversion automatique en Cambridge English Scale. Ne pas recopier intégralement des sujets protégés : ouvrir les ressources officielles et relever seulement les réponses/erreurs nécessaires au bilan.
+## Procédure de mise à jour GitHub
 
-## Protocole de mise à jour du README
-
-À chaque séance : (a) lire le README actuel ; (b) poser exercices et recueillir les réponses ; (c) corriger ou demander confirmation du parent ; (d) remplacer le statut **uniquement** pour la séance/compétence évaluée ; (e) ajouter au journal la date, le score, la preuve et les reprises ; (f) publier le README mis à jour sur `main` avec un commit `study: Jxx ...`. En cas de conflit Git, relire la dernière version et préserver tout l'historique avant d'écrire. Ne jamais effacer une difficulté antérieure : garder sa trace dans le journal.
+1. Lire le README sur `main` juste avant toute modification ; préserver intégralement les entrées déjà enregistrées.
+2. À la fin de chaque séance, changer **son seul statut** et celui des compétences réellement évaluées ; ne jamais prévalider une date future.
+3. Ajouter une ligne au journal avec score, preuve, retour de l'IA ou confirmation humaine et erreurs à corriger.
+4. Mettre à jour le fichier sur `main` avec un commit explicite (`study: Sxx progression`) ; en cas de modification concurrente, récupérer le dernier fichier avant de refaire la mise à jour.
