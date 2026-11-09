@@ -14,7 +14,7 @@
 
 | ID | Date 2026 | Focus | Exercices réalistes à faire en 30 min | Durée | Évaluation | Statut |
 |---|---|---|---|---|---|---|
-| S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | ⏳ À travailler |
+| S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | 🟠 À revoir (Speaking en attente) |
 | S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | ⏳ À travailler |
 | S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ⏳ À travailler |
 | S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | ⏳ À travailler |
@@ -81,20 +81,21 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 
 | Date réelle | ID | Activité / preuve | Score ou critères | Statut | Vérificateur | Erreurs / correction / suite |
 |---|---|---|---|---|---|---|
-| — | — | Aucune séance encore évaluée | — | ⏳ À travailler | — | Première séance S01 le 10/11 |
+| 09/11/2026 | S01 | R&U 6 questions (P1–P4) : réponses A, had, COMMUNICATION, have learnt English for, B, about | **4/6 (66,7 %)** | 🟠 À revoir | IA | Revoir confident → confidence et look forward **to** + -ing ; acquis ponctuels sur third conditional, despite + -ing et present perfect. | 
+| 09/11/2026 | S01 | Writing diagnostic sur temps libre seul/avec amis (texte court de l'élève) | **13/20 indicatif** (Content 4/5, Communicative Achievement 3/5, Organisation 3/5, Language 3/5) | 🟠 À revoir | IA | Corriger ordre des mots (« one right answer »), accord (« spending ... allows »), virgules, « take a break from ». Speaking pas encore réalisé ; note de séance non finalisée. |
 
 ## Matrice des compétences
 
 | Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
 |---|---|---|---|---|
-| R&U P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| R&U P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| R&U P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| R&U P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P1 | 1/1 diagnostic | ⏳ À travailler | 09/11/2026 | Trop peu de questions pour valider ; S02 |
+| R&U P2 | 1/2 diagnostic | 🟠 À revoir | 09/11/2026 | Réviser prépositions et expressions figées ; S02 |
+| R&U P3 | 0/1 diagnostic | 🟠 À revoir | 09/11/2026 | Word formation : confident → confidence ; S02 |
+| R&U P4 | 1/1 diagnostic | ⏳ À travailler | 09/11/2026 | Vérifier sur d'autres transformations ; S02 |
 | R&U P5 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | R&U P6 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | R&U P7 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| Writing essay | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Writing essay | 13/20, diagnostic court (4/3/3/3) | 🟠 À revoir | 09/11/2026 | S04 : travailler précision grammaticale et opinion plus explicite |
 | Writing Part 2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
