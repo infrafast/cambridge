@@ -14,7 +14,7 @@
 
 | ID | Date 2026 | Focus | Exercices réalistes à faire en 30 min | Durée | Évaluation | Statut |
 |---|---|---|---|---|---|---|
-| S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | 🟠 À revoir (Speaking en attente) |
+| S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | 🟠 À revoir (S01 terminée : R&U, Writing, Speaking évalués) |
 | S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | ⏳ À travailler |
 | S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ⏳ À travailler |
 | S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | ⏳ À travailler |
@@ -82,7 +82,9 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 | Date réelle | ID | Activité / preuve | Score ou critères | Statut | Vérificateur | Erreurs / correction / suite |
 |---|---|---|---|---|---|---|
 | 09/11/2026 | S01 | R&U 6 questions (P1–P4) : réponses A, had, COMMUNICATION, have learnt English for, B, about | **4/6 (66,7 %)** | 🟠 À revoir | IA | Revoir confident → confidence et look forward **to** + -ing ; acquis ponctuels sur third conditional, despite + -ing et present perfect. | 
-| 09/11/2026 | S01 | Writing diagnostic sur temps libre seul/avec amis (texte court de l'élève) | **13/20 indicatif** (Content 4/5, Communicative Achievement 3/5, Organisation 3/5, Language 3/5) | 🟠 À revoir | IA | Corriger ordre des mots (« one right answer »), accord (« spending ... allows »), virgules, « take a break from ». Speaking pas encore réalisé ; note de séance non finalisée. |
+| 09/11/2026 | S01 | Writing diagnostic sur temps libre seul/avec amis (texte court de l'élève) | **13/20 indicatif** (Content 4/5, Communicative Achievement 3/5, Organisation 3/5, Language 3/5) | 🟠 À revoir | IA | Corriger ordre des mots (« one right answer »), accord (« spending ... allows »), virgules, « take a break from ». Speaking réalisé et évalué séparément. |
+
+| 09/11/2026 | S01 | Speaking P1 : entretien vocal (3 questions : loisirs, géopolitique, études à l'étranger), avec reprise volontaire de la 2e réponse ; évaluation à partir de la transcription de l'entretien. | **13/20 sur 4 critères observables** : Grammar & Vocabulary 3/5 ; Discourse Management 3/5 ; Interactive Communication 4/5 ; Global Achievement 3/5 ; Pronunciation **N/E** (audio non accessible ici). | 🟠 À revoir | IA, transcription | Forces : réponses développées, arguments personnels, demande de reformulation/reprise. Revoir accords « it develops », vocabulaire « current events », « go to another country / study abroad », « it costs too much », « a degree in economics » ; réduire les hésitations et articuler les transitions. Évaluation indicative, pas un score officiel Cambridge. |
 
 ## Matrice des compétences
 
@@ -101,7 +103,7 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 | Listening P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| Speaking P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Speaking P1 | 13/20 indicatif sur 4 critères observables ; prononciation N/E | 🟠 À revoir | 09/11/2026 | S08 : fluidité, précision grammaticale et vocabulaire international ; la note concerne uniquement la Part 1 |
 | Speaking P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Speaking P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Speaking P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
