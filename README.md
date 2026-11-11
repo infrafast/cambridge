@@ -15,7 +15,7 @@
 | ID | Date 2026 | Focus | Exercices réalistes à faire en 30 min | Durée | Évaluation | Statut |
 |---|---|---|---|---|---|---|
 | S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | 🟠 À revoir (S01 terminée : R&U, Writing, Speaking évalués) |
-| S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | ⏳ À travailler |
+| S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | 🟠 À revoir (séance terminée, 9/13 hors Q3 neutralisée) |
 | S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ⏳ À travailler |
 | S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | ⏳ À travailler |
 | S05 | Jeu 19/11 | Writing Part 2 | Comparer rapidement article/email/review/story ; choisir un format, rédiger **100–120 mots** puis améliorer accroche, registre et conclusion. Production partielle. | 30 min | IA | ⏳ À travailler |
@@ -86,14 +86,16 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 
 | 09/11/2026 | S01 | Speaking P1 : entretien vocal (3 questions : loisirs, géopolitique, études à l'étranger), avec reprise volontaire de la 2e réponse ; évaluation à partir de la transcription de l'entretien. | **13/20 sur 4 critères observables** : Grammar & Vocabulary 3/5 ; Discourse Management 3/5 ; Interactive Communication 4/5 ; Global Achievement 3/5 ; Pronunciation **N/E** (audio non accessible ici). | 🟠 À revoir | IA, transcription | Forces : réponses développées, arguments personnels, demande de reformulation/reprise. Revoir accords « it develops », vocabulaire « current events », « go to another country / study abroad », « it costs too much », « a degree in economics » ; réduire les hésitations et articuler les transitions. Évaluation indicative, pas un score officiel Cambridge. |
 
+| 11/11/2026 | S02 | Use of English P1–P4, 14 questions : Q1 B faux, Q2 A juste, Q3 C neutralisée (ambiguïté keep/catch up), Q4 C juste, Q5 to faux, Q6 since juste, Q7 were juste, Q8 being juste, Q9 confidence juste, Q10 opportunity juste, Q11 creativity juste, Q12 clearly juste, Q13 had study Spanish for faux, Q14 even if she was faux | **9/13 (69,2 %), Q3 neutralisée** ; P1 2/3, P2 3/4, P3 4/4, P4 0/2 | 🟠 À revoir | IA | Points forts : word formation 4/4, second conditional, since/for et despite + -ing en cloze. À revoir : strike a balance, interested in, present perfect continuous, transformations imposant le mot FOR/DESPITE. Q14 attendait « despite being » ; « even if she was » ne respectait pas DESPITE et modifiait la nuance. Reprise ciblée ultérieure sans alourdir le calendrier. |
+
 ## Matrice des compétences
 
 | Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
 |---|---|---|---|---|
-| R&U P1 | 1/1 diagnostic | ⏳ À travailler | 09/11/2026 | Trop peu de questions pour valider ; S02 |
-| R&U P2 | 1/2 diagnostic | 🟠 À revoir | 09/11/2026 | Réviser prépositions et expressions figées ; S02 |
-| R&U P3 | 0/1 diagnostic | 🟠 À revoir | 09/11/2026 | Word formation : confident → confidence ; S02 |
-| R&U P4 | 1/1 diagnostic | ⏳ À travailler | 09/11/2026 | Vérifier sur d'autres transformations ; S02 |
+| R&U P1 | S02 : 2/3 (Q3 neutralisée) | 🟠 À revoir | 11/11/2026 | Collocations : strike a balance ; mini-révision ultérieure |
+| R&U P2 | S02 : 3/4 | 🟠 À revoir | 11/11/2026 | Interested in ; consolider les prépositions |
+| R&U P3 | S02 : 4/4 | ✅ Acquis | 11/11/2026 | Maintenir par rappels espacés ; nouveau contexte à S10 |
+| R&U P4 | S02 : 0/2 | 🟠 À revoir | 11/11/2026 | Present perfect (continuous), FOR et DESPITE ; reprise ciblée |
 | R&U P5 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | R&U P6 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | R&U P7 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
