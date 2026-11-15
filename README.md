@@ -16,7 +16,7 @@
 |---|---|---|---|---|---|---|
 | S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | 🟠 À revoir (S01 terminée : R&U, Writing, Speaking évalués) |
 | S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | 🟠 À revoir (séance terminée, 9/13 hors Q3 neutralisée) |
-| S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ⏳ À travailler |
+| S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ✅ Acquis (entraînement guidé 10/10 ; confirmation S10) |
 | S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | ⏳ À travailler |
 | S05 | Jeu 19/11 | Writing Part 2 | Comparer rapidement article/email/review/story ; choisir un format, rédiger **100–120 mots** puis améliorer accroche, registre et conclusion. Production partielle. | 30 min | IA | ⏳ À travailler |
 | S06 | Sam 21/11 | Listening P1–P2 | Audio officiel : P1 **4 QCM** + P2 **5 réponses** ; réécouter les passages difficiles et corriger. | 30 min | Corrigé + IA | ⏳ À travailler |
@@ -88,6 +88,8 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 
 | 11/11/2026 | S02 | Use of English P1–P4, 14 questions : Q1 B faux, Q2 A juste, Q3 C neutralisée (ambiguïté keep/catch up), Q4 C juste, Q5 to faux, Q6 since juste, Q7 were juste, Q8 being juste, Q9 confidence juste, Q10 opportunity juste, Q11 creativity juste, Q12 clearly juste, Q13 had study Spanish for faux, Q14 even if she was faux | **9/13 (69,2 %), Q3 neutralisée** ; P1 2/3, P2 3/4, P3 4/4, P4 0/2 | 🟠 À revoir | IA | Points forts : word formation 4/4, second conditional, since/for et despite + -ing en cloze. À revoir : strike a balance, interested in, present perfect continuous, transformations imposant le mot FOR/DESPITE. Q14 attendait « despite being » ; « even if she was » ne respectait pas DESPITE et modifiait la nuance. Reprise ciblée ultérieure sans alourdir le calendrier. |
 
+| 15/11/2026 | S03 | Reading guidé : Part 5 (Olivia, voyage et bénévolat), Part 6 (cohésion de trois courts textes), Part 7 (quatre témoignages sur les études à l'étranger). Réponses : B, C, D, A, B, C, B, C, A, D. | **10/10 (100 %)** : P5 3/3 ; P6 3/3 ; P7 4/4 | ✅ Acquis (séance) | IA | Bon repérage des informations, synonymes, connecteurs et références. Textes brefs et QCM guidés, plus faciles que le format officiel : confirmer sur des textes plus longs à S10 ; aucune remédiation immédiate. |
+
 ## Matrice des compétences
 
 | Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
@@ -96,9 +98,9 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 | R&U P2 | S02 : 3/4 | 🟠 À revoir | 11/11/2026 | Interested in ; consolider les prépositions |
 | R&U P3 | S02 : 4/4 | ✅ Acquis | 11/11/2026 | Maintenir par rappels espacés ; nouveau contexte à S10 |
 | R&U P4 | S02 : 0/2 | 🟠 À revoir | 11/11/2026 | Present perfect (continuous), FOR et DESPITE ; reprise ciblée |
-| R&U P5 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| R&U P6 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| R&U P7 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| R&U P5 | 3/3 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : confirmer sur texte plus long |
+| R&U P6 | 3/3 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : confirmer la cohésion sur un texte complet |
+| R&U P7 | 4/4 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : vérifier les reformulations plus difficiles |
 | Writing essay | 13/20, diagnostic court (4/3/3/3) | 🟠 À revoir | 09/11/2026 | S04 : travailler précision grammaticale et opinion plus explicite |
 | Writing Part 2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
