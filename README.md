@@ -17,7 +17,7 @@
 | S01 | Mar 10/11 | Diagnostic léger | R&U : **6 questions** mixtes P1–P4 (10 min) ; Writing : **60–80 mots** (10 min) ; mini-entretien vocal **3 questions** (5 min) ; bilan (5 min). Diagnostic, pas un Writing officiel. | 30 min | IA + conversation vocale | 🟠 À revoir (S01 terminée : R&U, Writing, Speaking évalués) |
 | S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | 🟠 À revoir (séance terminée, 9/13 hors Q3 neutralisée) |
 | S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ✅ Acquis (entraînement guidé 10/10 ; confirmation S10) |
-| S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | ⏳ À travailler |
+| S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | 🟠 À revoir (Writing évalué, 14/20 indicatif) |
 | S05 | Jeu 19/11 | Writing Part 2 | Comparer rapidement article/email/review/story ; choisir un format, rédiger **100–120 mots** puis améliorer accroche, registre et conclusion. Production partielle. | 30 min | IA | ⏳ À travailler |
 | S06 | Sam 21/11 | Listening P1–P2 | Audio officiel : P1 **4 QCM** + P2 **5 réponses** ; réécouter les passages difficiles et corriger. | 30 min | Corrigé + IA | ⏳ À travailler |
 | S07 | Mar 24/11 | Listening P3–P4 | Audio : P3 **3 associations** + P4 **3 QCM** ; travailler les mots-clés et les distracteurs. | 30 min | Corrigé + IA | ⏳ À travailler |
@@ -90,6 +90,8 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 
 | 15/11/2026 | S03 | Reading guidé : Part 5 (Olivia, voyage et bénévolat), Part 6 (cohésion de trois courts textes), Part 7 (quatre témoignages sur les études à l'étranger). Réponses : B, C, D, A, B, C, B, C, A, D. | **10/10 (100 %)** : P5 3/3 ; P6 3/3 ; P7 4/4 | ✅ Acquis (séance) | IA | Bon repérage des informations, synonymes, connecteurs et références. Textes brefs et QCM guidés, plus faciles que le format officiel : confirmer sur des textes plus longs à S10 ; aucune remédiation immédiate. |
 
+| 16/11/2026 | S04 | Writing Part 1 : essai court sur l'enseignement des compétences pratiques (budget, vie adulte et sécurité numérique), 137 mots ; texte personnel puis correction et comparaison S01. Entraînement partiel, non équivalent au format officiel de 140–190 mots. | **14/20 indicatif** : Content 4/5 ; Communicative Achievement 4/5 ; Organisation 3/5 ; Language 3/5 (**S01 : 13/20**) | 🟠 À revoir | IA | Points forts : position claire, exemples concrets (budget, impôts, données personnelles), arguments plus convaincants. À revoir : phrases trop longues/virgules, paragraphes, constructions « help students become », « teach students about online risks », « schools should raise awareness ». Reprendre ces deux axes sans ajouter de travail hors planning. |
+
 ## Matrice des compétences
 
 | Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
@@ -101,7 +103,7 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 | R&U P5 | 3/3 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : confirmer sur texte plus long |
 | R&U P6 | 3/3 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : confirmer la cohésion sur un texte complet |
 | R&U P7 | 4/4 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : vérifier les reformulations plus difficiles |
-| Writing essay | 13/20, diagnostic court (4/3/3/3) | 🟠 À revoir | 09/11/2026 | S04 : travailler précision grammaticale et opinion plus explicite |
+| Writing essay | S04 : 14/20 indicatif (4/4/3/3), texte court ; S01 : 13/20 | 🟠 À revoir | 16/11/2026 | S11 : structurer les paragraphes et corriger les constructions verbales ; confirmer sur une tâche nouvelle |
 | Writing Part 2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
