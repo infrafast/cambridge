@@ -18,7 +18,7 @@
 | S02 | Jeu 12/11 | Use of English | P1 : 4 QCM ; P2 : 4 open cloze ; P3 : 4 word formation ; P4 : 2 transformations ; analyse rapide de 2 erreurs. | 30 min | IA | 🟠 À revoir (séance terminée, 9/13 hors Q3 neutralisée) |
 | S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ✅ Acquis (entraînement guidé 10/10 ; confirmation S10) |
 | S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | 🟠 À revoir (Writing évalué, 14/20 indicatif) |
-| S05 | Jeu 19/11 | Writing Part 2 | Comparer rapidement article/email/review/story ; choisir un format, rédiger **100–120 mots** puis améliorer accroche, registre et conclusion. Production partielle. | 30 min | IA | ⏳ À travailler |
+| S05 | Jeu 19/11 | Writing Part 2 | Comparer rapidement article/email/review/story ; choisir un format, rédiger **100–120 mots** puis améliorer accroche, registre et conclusion. Production partielle. | 30 min | IA | 🟠 À revoir (email 14/20 indicatif, consigne partiellement couverte) |
 | S06 | Sam 21/11 | Listening P1–P2 | Audio officiel : P1 **4 QCM** + P2 **5 réponses** ; réécouter les passages difficiles et corriger. | 30 min | Corrigé + IA | ⏳ À travailler |
 | S07 | Mar 24/11 | Listening P3–P4 | Audio : P3 **3 associations** + P4 **3 QCM** ; travailler les mots-clés et les distracteurs. | 30 min | Corrigé + IA | ⏳ À travailler |
 | S08 | Jeu 26/11 | Speaking P1–P2 | **Mode vocal** : entretien ~4 min, comparaison de photos ~4 min avec consignes, retour et 2 reformulations. | 30 min | IA conversation vocale | ⏳ À travailler |
@@ -92,6 +92,8 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 
 | 16/11/2026 | S04 | Writing Part 1 : essai court sur l'enseignement des compétences pratiques (budget, vie adulte et sécurité numérique), 137 mots ; texte personnel puis correction et comparaison S01. Entraînement partiel, non équivalent au format officiel de 140–190 mots. | **14/20 indicatif** : Content 4/5 ; Communicative Achievement 4/5 ; Organisation 3/5 ; Language 3/5 (**S01 : 13/20**) | 🟠 À revoir | IA | Points forts : position claire, exemples concrets (budget, impôts, données personnelles), arguments plus convaincants. À revoir : phrases trop longues/virgules, paragraphes, constructions « help students become », « teach students about online risks », « schools should raise awareness ». Reprendre ces deux axes sans ajouter de travail hors planning. |
 
+| 20/11/2026 | S05 | Writing Part 2 : email informel à Alex, correspondant venant une semaine ; propositions de restaurant et patinage, question sur les activités souhaitées ; **point « what to bring » omis**. | **14/20 indicatif** : Content 3/5 ; Communicative Achievement 4/5 ; Organisation 4/5 ; Language 3/5 (S01 13/20 ; S04 14/20) | 🟠 À revoir | IA | Points forts : ton amical, idées naturelles, structure logique. À revoir : vérifier chacun des trois points de la consigne, information/advice indénombrables, « book a table », « in town », « ice skating », « there are any ». Faire une relecture de consigne en S11. |
+
 ## Matrice des compétences
 
 | Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
@@ -104,7 +106,7 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 | R&U P6 | 3/3 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : confirmer la cohésion sur un texte complet |
 | R&U P7 | 4/4 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : vérifier les reformulations plus difficiles |
 | Writing essay | S04 : 14/20 indicatif (4/4/3/3), texte court ; S01 : 13/20 | 🟠 À revoir | 16/11/2026 | S11 : structurer les paragraphes et corriger les constructions verbales ; confirmer sur une tâche nouvelle |
-| Writing Part 2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Writing Part 2 | S05 email : 14/20 indicatif (3/4/4/3) | 🟠 À revoir | 20/11/2026 | S11 : vérifier tous les points de consigne ; travailler information/advice et expressions naturelles |
 | Listening P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
