@@ -19,7 +19,7 @@
 | S03 | Sam 14/11 | Reading | Courts extraits de P5 (3 QCM), P6 (3 phrases), P7 (4 associations) ; repérer les indices dans le texte. | 30 min | IA | ✅ Acquis (entraînement guidé 10/10 ; confirmation S10) |
 | S04 | Mar 17/11 | Writing essay | Sujet de Part 1 : plan en 5 min puis **un paragraphe argumenté (~100 mots)** en 20 min ; correction prioritaire de 2 erreurs. Écriture partielle, pas une production officielle complète. | 30 min | IA | 🟠 À revoir (Writing évalué, 14/20 indicatif) |
 | S05 | Jeu 19/11 | Writing Part 2 | Comparer rapidement article/email/review/story ; choisir un format, rédiger **100–120 mots** puis améliorer accroche, registre et conclusion. Production partielle. | 30 min | IA | 🟠 À revoir (email 14/20 indicatif, consigne partiellement couverte) |
-| S06 | Sam 21/11 | Listening P1–P2 | Audio officiel : P1 **4 QCM** + P2 **5 réponses** ; réécouter les passages difficiles et corriger. | 30 min | Corrigé + IA | ⏳ À travailler |
+| S06 | Sam 21/11 | Listening P1–P2 | Entraînement vocal adapté (non officiel) : P1 **9 QCM** et P2 **6 réponses courtes** ; bilan des erreurs. | 30 min | IA conversation vocale | ✅ Acquis provisoire (réalisé le 23/11 : P1 8/9, P2 5/6, total 13/15) |
 | S07 | Mar 24/11 | Listening P3–P4 | Audio : P3 **3 associations** + P4 **3 QCM** ; travailler les mots-clés et les distracteurs. | 30 min | Corrigé + IA | ⏳ À travailler |
 | S08 | Jeu 26/11 | Speaking P1–P2 | **Mode vocal** : entretien ~4 min, comparaison de photos ~4 min avec consignes, retour et 2 reformulations. | 30 min | IA conversation vocale | ⏳ À travailler |
 | S09 | Sam 28/11 | Speaking P3–P4 | **Mode vocal** : discussion collaborative simulée, décision puis questions de suivi ; feedback concis sur interaction/fluidité. | 30 min | IA conversation vocale | ⏳ À travailler |
@@ -94,6 +94,8 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 
 | 20/11/2026 | S05 | Writing Part 2 : email informel à Alex, correspondant venant une semaine ; propositions de restaurant et patinage, question sur les activités souhaitées ; **point « what to bring » omis**. | **14/20 indicatif** : Content 3/5 ; Communicative Achievement 4/5 ; Organisation 4/5 ; Language 3/5 (S01 13/20 ; S04 14/20) | 🟠 À revoir | IA | Points forts : ton amical, idées naturelles, structure logique. À revoir : vérifier chacun des trois points de la consigne, information/advice indénombrables, « book a table », « in town », « ice skating », « there are any ». Faire une relecture de consigne en S11. |
 
+| 23/11/2026 | S06 | Listening en mode vocal, extraits **créés et lus par l'IA**, non issus des audios officiels : Part 1, 9 QCM (week-end, photographie, exposition, nouveau lycée, gare, sportif, sortie scolaire, café, météo) ; Part 2, 6 réponses courtes sur camp sportif et bibliothèque scolaire. | **13/15 (86,7 %)** : P1 **8/9 (88,9 %)** ; P2 **5/6 (83,3 %)** | ✅ Acquis provisoire (simulation guidée) | IA, transcription de conversation vocale | P1 : erreur sur « early tomorrow morning » (réponse C « tonight » au lieu de B). P2 : lieu exact « around the lake » manqué (« at the training camp ») ; autres réponses correctes : ninety minutes, nutrition, eight o'clock, three, two weeks. À renforcer : détails temporels et localisation précise. Réévaluer avec de vrais audios Cambridge en S12 ; cette simulation orale courte ne mesure pas la difficulté officielle. |
+
 ## Matrice des compétences
 
 | Compétence | Score confirmé | Statut | Dernier contrôle | Suite |
@@ -107,8 +109,8 @@ Demander **« Cambridge S01 : démarre le diagnostic de mon README GitHub infraf
 | R&U P7 | 4/4 à S03, exercice guidé | ✅ Acquis (provisoire) | 15/11/2026 | S10 : vérifier les reformulations plus difficiles |
 | Writing essay | S04 : 14/20 indicatif (4/4/3/3), texte court ; S01 : 13/20 | 🟠 À revoir | 16/11/2026 | S11 : structurer les paragraphes et corriger les constructions verbales ; confirmer sur une tâche nouvelle |
 | Writing Part 2 | S05 email : 14/20 indicatif (3/4/4/3) | 🟠 À revoir | 20/11/2026 | S11 : vérifier tous les points de consigne ; travailler information/advice et expressions naturelles |
-| Listening P1 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
-| Listening P2 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
+| Listening P1 | S06 : **8/9 (88,9 %)**, simulation orale courte par IA | ✅ Acquis provisoire | 23/11/2026 | S12 : audios officiels ; attention aux repères temporels (tonight / early tomorrow morning) |
+| Listening P2 | S06 : **5/6 (83,3 %)**, simulation orale courte par IA | ✅ Acquis provisoire | 23/11/2026 | S12 : audios officiels ; relever le lieu exact (around the lake) |
 | Listening P3 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Listening P4 | — | ⏳ À travailler | — | Séance correspondante du calendrier |
 | Speaking P1 | 13/20 indicatif sur 4 critères observables ; prononciation N/E | 🟠 À revoir | 09/11/2026 | S08 : fluidité, précision grammaticale et vocabulaire international ; la note concerne uniquement la Part 1 |
